@@ -1,11 +1,11 @@
 # Random-Picker-SwiftUI
 Create a list of items to randomly pick from.
 
-(New Feature) fancy animated "picker" view
+(New Feature) fancy animated "picker wheel" view
 
 ## TODO
 
-- [x] animated scrolling "picker" view
+- [x] animated scrolling "picker wheel" view
 - [ ] multiple lists
 - [ ] persistent storage
 - [ ] cloud storage & syncing
