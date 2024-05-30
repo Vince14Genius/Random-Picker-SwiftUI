@@ -11,3 +11,5 @@ Create a list of items to randomly pick from.
 - [ ] cloud storage & syncing
 - [ ] app icon
 - [ ] submit to App Store
+- [ ] App Clip?
+- [ ] iMessage app?
